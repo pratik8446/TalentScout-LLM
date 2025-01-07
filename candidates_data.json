@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Pratik Nalawade",
+        "email": "nalawadep442@gmail.com",
+        "phone": "09765604743",
+        "experience": 10,
+        "position": "Software developer",
+        "location": "Pune",
+        "tech_stack": "python, django"
+    },
+    {
+        "name": "Pratik Nalawade",
+        "email": "nalawadep442@gmail.com",
+        "phone": "09765604743",
+        "experience": 10,
+        "position": "Software developer",
+        "location": "Pune",
+        "tech_stack": "python, django"
+    },
+    {
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "phone": "9999999999",
+        "experience": 3,
+        "position": "Software engineer",
+        "location": "pune",
+        "tech_stack": "python, sql",
+        "questions_and_answers": {
+            "python": [
+                "xyz",
+                "xyz",
+                "xyz"
+            ],
+            "sql": []
+        }
+    },
+    {
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "phone": "9999999999",
+        "experience": 3,
+        "position": "Software engineer",
+        "location": "pune",
+        "tech_stack": "python, sql",
+        "questions_and_answers": {
+            "python": [
+                "xyz",
+                "xyz",
+                "xyz"
+            ],
+            "sql": [
+                "xyz",
+                "xyz",
+                "xyz"
+            ]
+        }
+    },
+    {
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "phone": "9999999999",
+        "experience": 6,
+        "position": "software engineer",
+        "location": "Pune",
+        "tech_stack": "react, HTML",
+        "questions_and_answers": {
+            "react": [
+                "react is a very useful library in javascript",
+                "click on new and create folder",
+                "No"
+            ],
+            "HTML": [
+                "nA",
+                "NA",
+                "NA"
+            ]
+        }
+    },
+    {
+        "name": "qwe",
+        "email": "qwe@gmail.com",
+        "phone": "7777777777",
+        "experience": 7,
+        "position": "Data analyst",
+        "location": "Mumbai",
+        "tech_stack": "PowerBI, Excel, sql",
+        "questions_and_answers": {
+            "PowerBI": [
+                "NA",
+                "NA",
+                "NA"
+            ],
+            "Excel": [
+                "nope",
+                "nope",
+                "nope"
+            ],
+            "sql": [
+                "NA",
+                "NA",
+                "NA"
+            ]
+        }
+    },
+    {
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "phone": "7777777777",
+        "experience": 5,
+        "position": "Data analyst",
+        "location": "Mumbai",
+        "tech_stack": "Python, Statistics, SQL",
+        "questions_and_answers": {
+            "Python": [
+                "NA",
+                "NA",
+                "NA"
+            ],
+            "Statistics": [
+                "NA",
+                "NA",
+                "NA"
+            ],
+            "SQL": []
+        }
+    },
+    {
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "phone": "7894561230",
+        "experience": 5,
+        "position": "Data science",
+        "location": "Pune",
+        "tech_stack": "Machine learning, Python, SQL",
+        "questions_and_answers": {
+            "Machine learning": [
+                "QA",
+                "QA",
+                "QA"
+            ],
+            "Python": [
+                "NA",
+                "NA",
+                "NA"
+            ],
+            "SQL": [
+                "NA",
+                "nA",
+                "NA"
+            ]
+        }
+    }
+]
